@@ -36,23 +36,12 @@ The dataset has 40.455 diamonds and ten rows with their characteristics:
 
 ### :file_folder: **Folder structure**
 ```
-└── project
-    ├── __trash__
+└── ih_datamadpt1120_project_m2
+    ├── data_analysis_report.ipynb
     ├── .gitignore
-    ├── .env
-    ├── requeriments.txt
+    ├── dashboard-link.txt
     ├── README.md
-    ├── main_script.py
-    ├── notebooks
-    │   ├── notebook1.ipynb
-    │   └── notebook2.ipynb
-    ├── package1
-    │   ├── module1.py
-    │   └── module2.py
-    └── data
-        ├── raw
-        ├── processed
-        └── results
+     
 ```
 
 
