@@ -10,6 +10,19 @@ In this project, I made an exploratoy analysis of a diamonds dataset with pandas
 
 - [Diamonds Dataset](https://www.kaggle.com/shivam2503/diamonds)
 
+The dataset has 40.455 diamonds and ten rows with their characteristics:
+- Carat
+- Cut
+- Color
+- Clarity
+- Depth
+- Table
+- Price
+- x
+- y
+- z
+
+
 ## **Steps**
 
 - Explore the dataset with pandas 
@@ -17,6 +30,31 @@ In this project, I made an exploratoy analysis of a diamonds dataset with pandas
 - Graphics with seaborn matplotlib for categorical and numerical variables.
 - Hypothesis testing grouping variables.
 - Report with tableau.
+
+
+
+
+### :file_folder: **Folder structure**
+```
+└── project
+    ├── __trash__
+    ├── .gitignore
+    ├── .env
+    ├── requeriments.txt
+    ├── README.md
+    ├── main_script.py
+    ├── notebooks
+    │   ├── notebook1.ipynb
+    │   └── notebook2.ipynb
+    ├── package1
+    │   ├── module1.py
+    │   └── module2.py
+    └── data
+        ├── raw
+        ├── processed
+        └── results
+```
+
 
 
 
