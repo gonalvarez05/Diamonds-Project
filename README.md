@@ -8,7 +8,7 @@ In this project, I made an exploratoy analysis of a diamonds dataset with pandas
 
 ## **Data**
 
-- [Diamonds Dataset] (https://www.kaggle.com/shivam2503/diamonds)
+- [.Diamonds Dataset](https://www.kaggle.com/shivam2503/diamonds)
 
 ## **Steps**
 
