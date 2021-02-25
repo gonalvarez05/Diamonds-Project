@@ -1,6 +1,6 @@
 # Diamonds Project Analysis
 
-![Image](https://res.cloudinary.com/springboard-images/image/upload/q_auto,f_auto,fl_lossy/wordpress/2019/05/aiexcerpt.png)
+![Image](https://estaticos.muyinteresante.es/media/cache/760x570_thumb/uploads/images/article/5888a6e85cafe8a76908d93f/diamantes_0.jpg)
 
 ## **Overwiew**
 
