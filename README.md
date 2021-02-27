@@ -11,16 +11,17 @@ In this project, I made an exploratoy analysis of a diamonds dataset with pandas
 - [Diamonds Dataset](https://www.kaggle.com/shivam2503/diamonds)
 
 The dataset has 40.455 diamonds and ten rows with their characteristics:
-- Carat
-- Cut
-- Color
-- Clarity
-- Depth
-- Table
-- Price
-- x
-- y
-- z
+- Carat: weight of the diamond
+- Cut: quality of the cut (Fair, Good, Very Good, Premium, Ideal)
+- Color: diamond colour, from J (worst) to D (best)
+- Clarity: a measurement of how clear the diamond is (I1 (worst), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (best))
+- Depth: total depth percentage = z / mean(x, y) = 2 * z / (x + y) (43--79)
+- Table: width of top of diamond relative to widest point (43--95))
+- Price: price in USD
+- x: length in mm
+- y: width in mm
+- z: depth in mm
+
 
 
 ## **Steps**
