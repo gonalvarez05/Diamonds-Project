@@ -44,11 +44,7 @@ The dataset has 40.455 diamonds and ten rows with their characteristics:
     ├── README.md
     ├── notebooks
                ├── data_analysis_report.ipynb
-               ├── ML-models.iypnb
-  
-   
-  
-     
+               ├── ML-models.iypnb     
 ```
 
 
