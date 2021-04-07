@@ -4,7 +4,7 @@
 
 ## **Overwiew**
 
-In this project, I made an exploratoy analysis of a diamonds dataset with pandas, matplotlib, seaborn and tableau. The main goal was to analyse how the distinct variables affect to the price of the diamond.
+In this project, I made an exploratoy analysis of a diamonds dataset with pandas, matplotlib, seaborn and tableau. The main goal was to analyse how the distinct variables affect to the price of the diamond and create a model to predict the price of another dataset of diamonds that we didn´t had the price.
 
 ## **Data**
 
