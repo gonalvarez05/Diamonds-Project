@@ -31,6 +31,8 @@ The dataset has 40.455 diamonds and ten rows with their characteristics:
 - Graphics with seaborn matplotlib for categorical and numerical variables.
 - Hypothesis testing grouping variables.
 - Report with tableau.
+- Making new features
+- Try ML models and see which one performs better.
 
 
 
@@ -38,10 +40,14 @@ The dataset has 40.455 diamonds and ten rows with their characteristics:
 ### :file_folder: **Folder structure**
 ```
 └── ih_datamadpt1120_project_m2
-    ├── data_analysis_report.ipynb
     ├── .gitignore
-    ├── dashboard-link.txt
     ├── README.md
+    ├── notebooks
+               ├── data_analysis_report.ipynb
+               ├── ML-models.iypnb
+  
+   
+  
      
 ```
 
