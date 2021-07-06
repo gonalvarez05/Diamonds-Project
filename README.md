@@ -32,7 +32,7 @@ The dataset has 40.455 diamonds and ten rows with their characteristics:
 - Hypothesis testing grouping variables.
 - Report with tableau.
 - Making new features
-- Try ML models and see which one performs better.
+- Create and try ML models and see which one performs better.
 
 
 
