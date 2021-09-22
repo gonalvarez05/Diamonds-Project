@@ -26,7 +26,7 @@ The dataset has 40.455 diamonds and ten rows with their characteristics:
 
 ## **Steps**
 
-- Explore the dataset with pandas 
+- Explore the dataset with pandas.
 - Analyse the statistical values.
 - Graphics with seaborn matplotlib for categorical and numerical variables.
 - Hypothesis testing grouping variables.
